@@ -1506,6 +1506,13 @@
     font-weight: bold;
     /* font-size: 3rem; */
   }
+
+  .contact-container .ico-icon {
+    color: var(--pistachio);
+    font-size: 7rem;
+    max-width: max-content;
+    /* margin-inline: auto; */
+  }
   
   .contact-container .contact-card, .contact-container .contact-left {
     display: flex;
